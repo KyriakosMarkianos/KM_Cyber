@@ -5,8 +5,6 @@ Working on getting this visible on the remote side
       ''')
 
 print('''
-**** SUCCESS ****
-
-I can see the file in the file system on the remote side. 
-      
+Part 2 - Driver File Fix
+**** The program now uses driver-info.txt ****
 ''')
